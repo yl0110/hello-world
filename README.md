@@ -1,2 +1,5 @@
 # hello-world
-10 minutes read guide
+=============
+
+Hi Humans,
+Bernd is trying to turn me into a developer. Github is just the beginning
